@@ -1,0 +1,55 @@
+{
+  "House1": {
+    "Rooms" : [{
+      "name" : "H1 Living room",
+      "temperature" : "34.2",
+      "humidity" : "5"
+    },
+      {
+      "name" : "H1 Kitchen",
+      "temperature" : "37.6",
+      "humidity" : "10"
+      },
+      {
+        "name" : "H1 Bedroom",
+        "temperature" : "32.8",
+        "humidity" : "7"
+      }]
+  },
+
+  "House2": {
+    "Rooms" : [{
+      "name" : "H2 Living room",
+      "temperature" : "27.6",
+      "humidity" : "5"
+    },
+      {
+        "name" : "H2 Kitchen",
+        "temperature" : "31.6",
+        "humidity" : "14"
+      },
+      {
+        "name" : "H2 Bedroom",
+        "temperature" : "38.8",
+        "humidity" : "6"
+      }]
+  },
+
+  "House3": {
+    "Rooms" : [{
+      "name" : "H3 Living room",
+      "temperature" : "24.2",
+      "humidity" : "9"
+    },
+      {
+        "name" : "H3 Kitchen",
+        "temperature" : "27.6",
+        "humidity" : "12"
+      },
+      {
+        "name" : "H3 Bedroom",
+        "temperature" : "18.8",
+        "humidity" : "6"
+      }]
+  }
+}
